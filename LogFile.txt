@@ -1,0 +1,119 @@
+Coursework log printout to file
+false
+true
+CPU Make:		Intel
+CPU Model:		Core i5
+CPU Clock Rate:		3.2GHz
+--------------------------------
+CPU Make:		Intel
+CPU Model:		Core i7
+CPU Clock Rate:		3.4GHz
+--------------------------------
+CPU Make:		Intel
+CPU Model:		Core i9
+CPU Clock Rate:		3.6GHz
+--------------------------------
+CPU Make:		AMD
+CPU Model:		Ryzen 5
+CPU Clock Rate:		3.6GHz
+--------------------------------
+CPU Make:		AMD
+CPU Model:		Ryzen 7
+CPU Clock Rate:		3.9GHz
+--------------------------------
+RAM Make:		Corsair
+RAM Model:		Vengeance
+Memory:			16.0GB
+--------------------------------
+RAM Make:		Corsair
+RAM Model:		Vengeance
+Memory:			32.0GB
+--------------------------------
+RAM Make:		Corsair
+RAM Model:		Value Select
+Memory:			8.0GB
+--------------------------------
+RAM Make:		Crucial
+RAM Model:		CT2K
+Memory:			16.0GB
+--------------------------------
+RAM Make:		Samsung
+RAM Model:		PC4
+Memory:			32.0GB
+--------------------------------
+HDD Make:		WD
+HDD Model:		Blue
+Capacity:		1024GB
+--------------------------------
+HDD Make:		WD
+HDD Model:		Green
+Capacity:		512GB
+--------------------------------
+HDD Make:		Seagate
+HDD Model:		BarraCuda
+Capacity:		2048GB
+--------------------------------
+HDD Make:		Toshiba
+HDD Model:		P300
+Capacity:		3072GB
+--------------------------------
+HDD Make:		WD
+HDD Model:		Black
+Capacity:		4096GB
+--------------------------------
+Make:			Dell
+Model:			Inspiron
+CPU Make:		Intel
+CPU Model:		Core i5
+CPU Clock Rate:		3.2GHz
+RAM Make:		Corsair
+RAM Model:		Vengeance
+Memory:			16.0GB
+HDD Make:		WD
+HDD Model:		Blue
+Capacity:		1024GB
+--------------------------------
+Make:			HP
+Model:			Envy
+CPU Make:		Intel
+CPU Model:		Core i7
+CPU Clock Rate:		3.4GHz
+RAM Make:		Corsair
+RAM Model:		Vengeance
+Memory:			32.0GB
+HDD Make:		WD
+HDD Model:		Green
+Capacity:		512GB
+--------------------------------
+Make:			Dell
+Model:			Inspiron
+CPU Make:		Intel
+CPU Model:		Core i5
+CPU Clock Rate:		3.2GHz
+RAM Make:		Corsair
+RAM Model:		Value Select
+Memory:			8.0GB
+HDD Make:		WD
+HDD Model:		Blue
+Capacity:		1024GB
+--------------------------------
+Make:			N/A
+Model:			N/A
+CPU Make:		Intel
+CPU Model:		Core i9
+CPU Clock Rate:		3.6GHz
+RAM Make:		Corsair
+RAM Model:		Vengeance
+Memory:			32.0GB
+HDD Make:		WD
+HDD Model:		Black
+Capacity:		4096GB
+GPU Make:		nVidia
+GPU Model:		TITAN RTX
+GPU Clock Rate:		1350MHz
+Video Memory:		24.0GB
+--------------------------------
+Dell Inspiron can not run Google Chrome
+Dell Inspiron can not run Celeste
+Dell Inspiron can not run Crysis 3
+Custom-built computer can not run Crysis 3
